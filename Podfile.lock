@@ -1,0 +1,17 @@
+PODS:
+  - SDWebImage (4.2.0):
+    - SDWebImage/Core (= 4.2.0)
+  - SDWebImage/Core (4.2.0)
+  - TWMessageBarManager (1.8.1)
+
+DEPENDENCIES:
+  - SDWebImage
+  - TWMessageBarManager
+
+SPEC CHECKSUMS:
+  SDWebImage: b1189fd85365c18434270a11a5cad13a1e848d53
+  TWMessageBarManager: fd84e7948ba7968a2b5d9454859135761214ec56
+
+PODFILE CHECKSUM: 5c7c03b0f04138e34cd1862f11a876b9fa1b9136
+
+COCOAPODS: 1.2.1
